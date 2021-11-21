@@ -8,7 +8,7 @@ The purpose of this analysis it to provide the PyBer CEO with analysis of total 
 
 ## Results 
  
-# Ride-Share Data
+### Ride-Share Data
 
 For the first analysis, we needed to provide a statistic overview and summary of the Total Rides, Total Drivers, Total Fares, Average Fare per Rider, and Average Fare per Driver. 
 
@@ -20,7 +20,7 @@ Some of the key findings from this summary include:
 - Total Fares also correlates with total drivers and total fares, with Urban cities having the highest revenue. 
 - Rural cities have the highest average fare per ride and average fare per driver, and urban cities have the lowest average fair per ride and driver. 
 
-#Analysis 
+### Analysis 
 With the higher demand and the higher number of drivers in urban cities, the average fare is also going to be lower, as indicated above. The higher the demand, the lower the cost will be for the rider. In the rural areas, it is just the opposite. In order to make any profit and to have the ability to use the PyBer within rural areas, PyBer must increase the amount per ride in order to be able to pay for the drivers' wages, as well as feed into the company's overall revenue. 
 
 
